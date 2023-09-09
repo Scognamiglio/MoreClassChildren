@@ -1,0 +1,16 @@
+{
+  "name": "zhen/moreclasschildren",
+  "version": "1.0.0",
+  "description": "Permet un héritage plus complet de différente classe en même temps",
+  "authors": [
+    {
+      "name": "Scognamiglio",
+      "email": "loic.scognamiglio16@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MoreClassChildren\\": "src/"
+    }
+  }
+}
